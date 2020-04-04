@@ -28,10 +28,7 @@ int main()
     ++i;
     for (; i < N_ELEMENTS(arr); ++i) {
         printf(", %d", arr[i]);
-<<<<<<< HEAD
 
-=======
->>>>>>> develop
     }
     printf("\n");
 
